@@ -1,0 +1,8 @@
+name: Diamondshop
+version: '${project.version}'
+main: diamondshop.diamondshop.Diamondshop
+api-version: 1.17
+prefix: DiamondShop
+authors: [ PizzaThatCodes ]
+description: An Plugin That Allows Players To Buy From Others With Diamonds
+website: https://pizzaclient.bss.design
